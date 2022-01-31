@@ -55,7 +55,7 @@
      ├───hyper_parameter.ipynb
      ├───model.ipynb
      └─── model
-           └───opt_catboost.pkl
+           └───catboost_optuna_parameter.pkl
 ```
 <br>
 
