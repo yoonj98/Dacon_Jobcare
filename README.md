@@ -39,7 +39,7 @@
 훠궈  
 ├── README.md
 ├── Final_Code.ipynb
-├── 훠궈_결과보고서.pdf
+├── 훠궈팀_설명자료.pdf
 ├── data  
 │    ├───train.csv
 │    ├───test.csv
