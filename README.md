@@ -34,6 +34,12 @@
 
 <br>
 
+## 📌 Presentation
+저희 프로젝트에 대해 자세하게 알고 싶으시다면, 프로젝트 설명자료를 참고해주세요. 
+* [![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/1wpLGC-iOmDGC2o-UkHTaew5GPKn8wnsA/view?usp=sharing)](https://drive.google.com/file/d/1wpLGC-iOmDGC2o-UkHTaew5GPKn8wnsA/view?usp=sharing)
+
+<br>
+
 ## 📌 Structure
 ```python
 훠궈  
